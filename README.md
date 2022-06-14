@@ -15,15 +15,15 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+### I am a Junior Data Analyst
+- 🔭 I’m currently working on my Portfolio :grin:
+- 🌱 I’m dividing deepeer into other Business Intellignce tools :wrench:
+- 👯 I’m looking to collaborate with other Analysts as I grow in my career :wink:
+- 🥅 2022 Goals: Make my GitHub account greener :chart:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 📬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/isioma-kingsley-iloh-60852ab8/) and [Gmail](mailto:ilohkingsleyisioma@gmail.com?subject=Hello%20Isioma)
+- 🧗 Best Philosophy: Enjoy the process🧘🏿
+- ⚡ Fun fact: I once fought with monkeys🐒 because I had a bag of goodies🤦🏿
 
 <br>
 
