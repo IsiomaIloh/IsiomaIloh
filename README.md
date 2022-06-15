@@ -2,7 +2,6 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Isioma 👋</b></h1>
 </p>
-
 <p>
   <h4 align="center"><b>"May the code 💪 be with you"</b></h4>
 </p>
@@ -17,7 +16,7 @@
 
 ### I am a Junior Data Analyst
 - 🔭 I’m currently working on my Portfolio 💼
-- 🌱 I’m dividing deepeer into other Business Intellignce tools :wrench:
+- 🌱 I’m dividing deepeer into other Business Intellignce tools 🧠:wrench:
 - 👯 I’m looking to collaborate with other Analysts as I grow in my career :wink:
 - 🥅 2022 Goals: Make my GitHub account greener :chart:
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -30,6 +29,9 @@
 ### Languages and Tools: 
  
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+<img align="left" alt="Jupyter Notebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" />
   
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
@@ -38,20 +40,21 @@
 <img align="left" alt="TensorFlow" width="35px"
  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
   
-<img align="left" alt="Seaborn" width="50px"
+<img align="left" alt="Seaborn" width="40px"
  src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
  
- <img align="left" alt="Sklearn" width="50px"
+ <img align="left" alt="Sklearn" width="40px"
  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
  
- <img align="left" alt="Tableau" width="80px"
+ <img align="left" alt="Tableau" width="60px"
  src="https://b-new.be/wp-content/uploads/2020/07/TB.png"/>  
   
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="60px" src="https://www.svgrepo.com/show/332084/github.svg" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://www.svgrepo.com/show/332084/github.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<br>
 <br>
 <br>
 <br>
@@ -62,44 +65,29 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsiomaIloh&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiomaIloh&hide=javascript,html,css&lang_count=8)](https://github.com/IsiomaIloh/github-readme-stats)
 
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
 
 <br>
 
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<!-- 1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 2. 💪 Opened PR [#423](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/423) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support) -->
 <!--END_SECTION:activity-->
 
 <br>
 
-### 📊 &nbsp; STATS
-
+<!-- ### 📊 &nbsp; STATS
+ -->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
+<!-- **From Hello World I have written 1.4 million Lines of Code ✍️**
+ -->
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
+<!-- **I'm an early 🐤** 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -108,11 +96,11 @@
 |🌃 Evening                |159 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.55%|
 |🌙 Night                  |23 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.29%|
 | | | | |
-
+ -->
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Thursdays** 
+<!-- 📅 **I'm Most Productive on Thursdays** 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -124,34 +112,18 @@
 |Saturday                 |54 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.29%|
 |Sunday                   |93 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.71%|
 | | | | |
-
+ -->
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
+**My 💖 languages:** 
 
-| | | | |
-| --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
+Python 🐍
+  <br>
+R
 
-<!--END_SECTION_LANGUAGE:readme-info-->
-
+#### Welcome To My World.
 <br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
-
-
-#### Thank You-🙏🏼
-
-⭐️ From [Sumanth-Talluri](https://github.com/Sumanth-Talluri)
+Thank You🙏🏼
+  <br>
+⭐️ From IsiomaIloh(https://github.com/IsiomaIloh)
