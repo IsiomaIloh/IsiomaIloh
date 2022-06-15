@@ -16,7 +16,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Junior Data Analyst
-- 🔭 I’m currently working on my Portfolio :grin:
+- 🔭 I’m currently working on my Portfolio 💼
 - 🌱 I’m dividing deepeer into other Business Intellignce tools :wrench:
 - 👯 I’m looking to collaborate with other Analysts as I grow in my career :wink:
 - 🥅 2022 Goals: Make my GitHub account greener :chart:
@@ -60,7 +60,7 @@
 ### :zap: Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsiomaIloh&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiomaIloh&lang_count=8)](https://github.com/IsiomaIloh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiomaIloh&hide=javascript,html,css&lang_count=8)](https://github.com/IsiomaIloh/github-readme-stats)
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
