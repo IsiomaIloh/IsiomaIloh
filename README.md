@@ -16,11 +16,11 @@
 
 ### I am a Junior Data Analyst
 - 🔭 I’m currently working on my Portfolio 💼
-- 🌱 I’m dividing deepeer into other Business Intellignce tools 🧠:wrench:
+- 🌱 I’m diving deeper into other Business intelligence tools 🧠:wrench:
 - 👯 I’m looking to collaborate with other Analysts as I grow in my career :wink:
 - 🥅 2022 Goals: Make my GitHub account greener :chart:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/isioma-kingsley-iloh-60852ab8/) and [Gmail](mailto:ilohkingsleyisioma@gmail.com?subject=Hello%20Isioma)
+- 📬 You can reach me on my [LinkedIn](https://www.linkedin.com/in/isioma-kingsley-iloh/) and [Gmail](mailto:ilohkingsleyisioma@gmail.com?subject=Hello%20Isioma)
 - 🧗 Best Philosophy: Enjoy the process🧘🏿
 - ⚡ Fun fact: I once fought with monkeys🐒 because I had a bag of goodies🤦🏿
 
